@@ -1,0 +1,39 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "name": "Champ",
+      "type": "Dog",
+      "breed": "Corgi",
+      "age": 2
+    },
+    {
+      "id": 2,
+      "name": "Teddy",
+      "type": "Cat",
+      "breed": "Ragdoll",
+      "age": 3
+    },
+    {
+      "id": 3,
+      "name": "Fluffy",
+      "type": "Cat",
+      "breed": "Persian",
+      "age": 5
+    },
+    {
+      "id": 4,
+      "name": "Misty",
+      "type": "Cat",
+      "breed": "Siberian",
+      "age": 1
+    },
+    {
+      "id": 5,
+      "name": "Bulu",
+      "type": "Cat",
+      "breed": "Birman",
+      "age": 1
+    }
+  ]
+}
