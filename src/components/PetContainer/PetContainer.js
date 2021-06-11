@@ -43,7 +43,7 @@ function PetContainer() {
   }
 
   function updatePet(id, updatedPet) {
-    fetch(`http://localhost:4000/pets/${id}`, {
+    fetch(`${BASE_URL}/${id}`, {
       method: "PATCH",
       headers: {
         "Content-Type": "application/json",
